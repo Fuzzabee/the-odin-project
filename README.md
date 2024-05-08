@@ -9,8 +9,8 @@ This will be set up a bit differently from how TOP indicates, for ease of progre
 Completed Prerequisites, Git Basics, and HTML Foundations section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
 Completed [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
-Source: https://github.com/Fuzzabee/odin-recipes
-Site: https://fuzzabee.github.io/odin-recipes/
+- [Source Code](https://github.com/Fuzzabee/odin-recipes)
+- [Live Site](https://fuzzabee.github.io/odin-recipes/)
 
 ## March 5, 2024
 
