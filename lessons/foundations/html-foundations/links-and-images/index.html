@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Links and Images</title>
+    </head>
+
+    <body>
+        <h1>Homepage</h1>
+        <!-- <a> are anchor elements which will link whatever is inside (text, images, etc) to another page, file, etc -->
+        <!-- 'href' tag is a Hypertext REFerence -->
+        <!-- 'target' tag specifies where the link opens. Default '_self' opens in current tab, '_blank' opens in new tab or window -->
+        <!-- 'rel' with 'noopener' is paired with '_blank' as to prevent phishing attacks with a redirect -->
+        <!-- 'rel' with 'noreferrer' prevents the opened link to know where the link originated -->
+        <a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferrer">About The Odin Project</a>
+
+        <!-- about.html is a relative link. It looks in the same directory as this current page, instead of having to type the absolute path -->
+        <a href="./pages/about.html">About</a>
+
+        <!-- 'img' displays the image located at 'src'. It is self closing, therefore no </img> tag -->
+        <!-- 'alt' describes the image. It is used if the image won't load, as well as for accessibility features -->
+        <!-- 'height' and 'width' should always be used, even with CSS, and even if it doesn't change the size of the image -->
+        <img src="./images/dog.jpg" alt="Picture of an awesome dog" width="320" height="426">
+    </body>
+</html>
