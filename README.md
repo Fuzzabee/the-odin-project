@@ -4,6 +4,10 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 I will also be keeping a log of when and what I get done, which will be included in this README.
 
+### March 6, 2024
+
+
+
 ### March 5, 2024
 
-Completed Introduction of the Foundations Course.
+Completed Introduction section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
