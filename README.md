@@ -4,6 +4,10 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## March 8, 2024
+
+Completed subsections Intro to CSS and The Cascade of CSS Foundations section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
+
 ## March 6, 2024
 
 Completed Prerequisites, Git Basics, and HTML Foundations section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
