@@ -4,15 +4,15 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
-## March 11, 2024
+## May 11, 2024
 
 Completed CSS Foundations section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
-## March 8, 2024
+## May 10, 2024
 
 Completed subsections Intro to CSS and The Cascade of CSS Foundations section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
-## March 6, 2024
+## May 8, 2024
 
 Completed Prerequisites, Git Basics, and HTML Foundations section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
@@ -20,6 +20,6 @@ Completed [Project: Recipes](https://www.theodinproject.com/lessons/foundations-
 - [Source Code](https://github.com/Fuzzabee/odin-recipes)
 - [Live Site](https://fuzzabee.github.io/odin-recipes/)
 
-## March 5, 2024
+## May 7, 2024
 
 Completed Introduction section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
