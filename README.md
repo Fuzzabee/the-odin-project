@@ -4,6 +4,10 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## May 12, 2024
+
+Completed subsections Introduction to Flexbox and Growing and Shrinking of Flexbox section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
+
 ## May 11, 2024
 
 Completed CSS Foundations section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
