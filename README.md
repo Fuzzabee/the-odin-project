@@ -6,7 +6,11 @@ This will be set up a bit differently from how TOP indicates, for ease of progre
 
 ## May 18, 2024
 
-Completed subsections Axes and Alignment of Flexbox section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
+Completed Flexbox section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
+
+Completed [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
+- [Source Code](https://github.com/Fuzzabee/odin-landing-page)
+- [Live Site](https://fuzzabee.github.io/odin-landing-page/)
 
 ## May 12, 2024
 
