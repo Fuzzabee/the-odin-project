@@ -4,6 +4,10 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## May 24, 2024
+
+Completed subsections Function Basics, Problem Solving, and Understanding Errors of JavaScript Basics section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
+
 ## May 21, 2024
 
 Completed subsections Variables and Operators, Data Types and Conditionals, and JavaScript Developer Tools of JavaScript Basics section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
