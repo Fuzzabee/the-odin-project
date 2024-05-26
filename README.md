@@ -4,6 +4,18 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## May 26, 2024
+
+Completed subsections Clean Code and Installing Node.js of JavaScript Basics section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
+
+## May 25, 2024
+
+Completed [Project: Rock, Paper, Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+- [Source Code](https://github.com/Fuzzabee/odin-rock-paper-scissors)
+- [Live Site](https://fuzzabee.github.io/odin-rock-paper-scissors/)
+
+The project is currently only available in the console, hitting F12 and selecting console will show results for this version.
+
 ## May 24, 2024
 
 Completed subsections Function Basics, Problem Solving, and Understanding Errors of JavaScript Basics section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
