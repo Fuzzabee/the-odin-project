@@ -4,6 +4,10 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## June 7, 2024
+
+Completed subsection Revisiting Rock, Paper, Scissors of JavaScript Basics section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations). This also updates the Rock, Paper, Scissors project from earlier to have a GUI.
+
 ## May 27, 2024
 
 Completed subsection Arrays and Loops of JavaScript Basics section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations).
