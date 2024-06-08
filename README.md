@@ -4,6 +4,12 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## June 8, 2024
+
+Completed [Project: Etch-A-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
+- [Source Code](https://github.com/Fuzzabee/odin-etch-a-sketch)
+- [Live Site](https://fuzzabee.github.io/odin-etch-a-sketch/)
+
 ## June 7, 2024
 
 Completed subsection Revisiting Rock, Paper, Scissors of JavaScript Basics section of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations). This also updates the Rock, Paper, Scissors project from earlier to have a GUI.
