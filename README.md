@@ -4,6 +4,16 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## June 11, 2024
+
+Completed [Project: Calculator](https://www.theodinproject.com/lessons/foundations-calculator)
+- [Source Code](https://github.com/Fuzzabee/odin-calculator)
+- [Live Site](https://fuzzabee.github.io/odin-calculator/)
+
+## June 9, 2024
+
+Started [Project: Calculator](https://www.theodinproject.com/lessons/foundations-calculator)
+
 ## June 8, 2024
 
 Completed [Project: Etch-A-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
