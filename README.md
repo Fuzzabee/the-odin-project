@@ -4,6 +4,10 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## June 14, 2024
+
+Completed section Foundations (CP 1 of 3 for ILE). Will be moving on to Intermediate HTML and CSS Course.
+
 ## June 11, 2024
 
 Completed [Project: Calculator](https://www.theodinproject.com/lessons/foundations-calculator)
