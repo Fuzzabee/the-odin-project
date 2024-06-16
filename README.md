@@ -4,6 +4,10 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## June 15, 2024
+
+Completed subsections Introduction of Intermediate HTML Concepts and Emmet of the [Intermediate HTML and CSS Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css).
+
 ## June 14, 2024
 
 Completed section Foundations (CP 1 of 3 for ILE). Will be moving on to Intermediate HTML and CSS Course.
