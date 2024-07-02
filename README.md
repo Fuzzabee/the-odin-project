@@ -4,6 +4,10 @@ This repo will contain all the progress made as I make my way through [The Odin 
 
 This will be set up a bit differently from how TOP indicates, for ease of progress updates with RPI.
 
+## June 23, 2024
+
+Completed More Text Styles of Intermediate CSS Concepts of the [Intermediate HTML and CSS Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css).
+
 ## June 22, 2024
 
 Completed subsections Default Style and CSS Units of Intermediate CSS Concepts of the [Intermediate HTML and CSS Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css).
